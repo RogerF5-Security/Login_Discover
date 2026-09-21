@@ -1,0 +1,15 @@
+admin
+administrator
+root
+user
+test
+guest
+support
+operator
+manager
+sysadmin
+security
+auditor
+demo
+service
+AAdmin
